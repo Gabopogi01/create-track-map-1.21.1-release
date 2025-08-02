@@ -1,3 +1,8 @@
+#WARRING
+i do not own this port and mod i just make it jar
+and its unoffical
+(used ai to build it bc idk how to build lol)
+
 <!-- modrinth_exclude.start -->
 
 ![Create Track Map](https://raw.githubusercontent.com/gist/jenchanws/44291eb9435be4fc46be1b8661ae4406/raw/b545411b55a9b18bb42c58dcf22f909d2c404498/ctm.svg)
@@ -7,17 +12,10 @@
 # Create Track Map
 
 ![Mod version](https://img.shields.io/modrinth/v/gxoNIjg6)
-![Minecraft versions](https://img.shields.io/badge/minecraft-1.18.2%20•%201.19.2-blue)
-![Download count](https://img.shields.io/modrinth/dt/gxoNIjg6)
 
-![Available for Fabric](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/fabric.svg)
-[![Requires Create ≥0.5](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/create-0.5.svg)](https://modrinth.com/mod/create-fabric)
-[![Requires Fabric API](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/1fc7a8dfba76460bedba7fa0b5516b917815e39c/fabric-api.svg)](https://modrinth.com/mod/fabric-api)
-[![Requires Fabric Kotlin](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/1fc7a8dfba76460bedba7fa0b5516b917815e39c/fabric-kotlin.svg)](https://modrinth.com/mod/fabric-language-kotlin)
-
-![Available for Forge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/forge.svg)
-[![Requires Create ≥0.5](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/create-0.5.svg)](https://modrinth.com/mod/create)
-[![Requires Kotlin for Forge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/forge-kotlin.svg)](https://modrinth.com/mod/kotlin-for-forge)
+![Available for NeoForge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/fabric.svg)
+[![Requires Create ≥0.6](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/create-0.5.svg)](https://modrinth.com/mod/create/versions)
+[![Requires Kotlin for NeoForge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/forge-kotlin.svg)](https://modrinth.com/mod/kotlin-for-forge)
 
 [![Available on GitHub](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/github.svg)](https://github.com/jenchanws/create-track-map)
 [![Available on Modrinth](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/modrinth.svg)](https://modrinth.com/mod/create-track-map)
@@ -31,10 +29,11 @@ Create Track Map (CTM) is a multi-loader mod that displays a track map of Create
 
 CTM is available for [download on Modrinth](https://modrinth.com/mod/create-track-map). **Please make sure you download the correct version for your loader, Minecraft version, and Create version.** Below is the compatibility chart for Create versions:
 
-| | CTM ≤1.3 | CTM 1.4 | CTM ≥1.5 |
+| | CTM ≤1.3 | CTM 1.4 | CTM ≥1.5 | CTM ≥1.6 (unofficial) |
 |:---|:--:|:--:|:--:|
-| **Create 0.5.0** | ✅ | ✅ | ❌ |
-| **Create 0.5.1** | ❌ | ✅ | ✅ |
+| **Create 0.5.0** | ? | ? | ? | ? |
+| **Create 0.5.1** | ? | ? | ? | ? |
+| **Create 0.6.0** | ? | ? | ? | ✅ |
 
 ## Installation
 Simply place the .jar file in your mods folder (or install with a modloader) like any other mod! CTM is intended to be a server side mod, but can also run in single-player worlds and LAN servers. It runs a web server on port `3876` by default, but [this can be configured](#configuration). You must forward this port if you wish to see the map. *[(How do I do this?)](https://www.google.com/search?q=how+to+I+port+forward)* 
