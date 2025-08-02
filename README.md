@@ -1,4 +1,4 @@
-#WARRING
+# WARRING
 i do not own this port and mod i just make it jar
 and its unoffical
 (used ai to build it bc idk how to build lol)
@@ -11,7 +11,6 @@ and its unoffical
 
 # Create Track Map
 
-![Mod version](https://img.shields.io/modrinth/v/gxoNIjg6)
 
 ![Available for NeoForge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/fabric.svg)
 [![Requires Create ≥0.6](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/create-0.5.svg)](https://modrinth.com/mod/create/versions)
@@ -27,12 +26,14 @@ Create Track Map (CTM) is a multi-loader mod that displays a track map of Create
 
 # Usage
 
-CTM is available for [download on Modrinth](https://modrinth.com/mod/create-track-map). **Please make sure you download the correct version for your loader, Minecraft version, and Create version.** Below is the compatibility chart for Create versions:
+**Please make sure you download the correct version for your loader, Minecraft version, and Create version.** Below is the compatibility chart for Create versions:
 
 | | CTM ≤1.3 | CTM 1.4 | CTM ≥1.5 | CTM ≥1.6 (unofficial) |
-|:---|:--:|:--:|:--:|
+
 | **Create 0.5.0** | ? | ? | ? | ? |
+
 | **Create 0.5.1** | ? | ? | ? | ? |
+
 | **Create 0.6.0** | ? | ? | ? | ✅ |
 
 ## Installation
