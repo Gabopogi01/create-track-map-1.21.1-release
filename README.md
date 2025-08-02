@@ -1,6 +1,7 @@
 # WARRING
 i do not own this port and mod i just make it jar
 and its unoffical
+i will not update this forever if the original port added the release
 (used ai to build it bc idk how to build lol)
 
 <!-- modrinth_exclude.start -->
@@ -12,13 +13,10 @@ and its unoffical
 # Create Track Map
 
 
-![Available for NeoForge](https://raw.githubusercontent.com/Gabopogi01/create-track-map-1.21.1-release/refs/heads/fabric/1.20/b9ae07fbc26c08220b4856cb244f86904d0c172c.webp)
+![Available for NeoForge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/fabric.svg)
 [![Requires Create ≥0.6](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/create-0.5.svg)](https://modrinth.com/mod/create/versions)
 [![Requires Kotlin for NeoForge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/forge-kotlin.svg)](https://modrinth.com/mod/kotlin-for-forge)
 
-[![Available on GitHub](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/github.svg)](https://github.com/jenchanws/create-track-map)
-[![Available on Modrinth](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/modrinth.svg)](https://modrinth.com/mod/create-track-map)
-[![Find me on Discord](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/0dbefc2fcbec362d14f1689acb807183ceffdbe1/discord.svg)](https://smp.littlechasiu.com/discord)
 
 Create Track Map (CTM) is a multi-loader mod that displays a track map of Create trains in your world, including all tracks, signals, stations, and trains. The signals and trains are updated in (practically) real time.
 
@@ -37,9 +35,17 @@ Create Track Map (CTM) is a multi-loader mod that displays a track map of Create
 | **Create 0.6.0** | ? | ? | ? | ✅ |
 
 ## Installation
-Simply place the .jar file in your mods folder (or install with a modloader) like any other mod! CTM is intended to be a server side mod, but can also run in single-player worlds and LAN servers. It runs a web server on port `3876` by default, but [this can be configured](#configuration). You must forward this port if you wish to see the map. *[(How do I do this?)](https://www.google.com/search?q=how+to+I+port+forward)* 
+Download the Release
+And Put .jar file in your mods folder (or install with a modloader) like any other mod! CTM is intended to be a server side mod, but can also run in single-player worlds and LAN servers. It runs a web server on port `3876` by default, but [this can be configured](#configuration). You must forward this port if you wish to see the map. *[(How do I do this?)](https://www.google.com/search?q=how+to+I+port+forward)* 
 
 The map itself is visible at the root (by default `http://localhost:3876/`). If using a proxy to serve the map, make sure to configure it to let Server-Sent Events through.
+
+## Installation (Expert, not recomended)
+Clone/Download this Repository and Extract it,
+Open cmd, Go to the Repository and cd it,
+and Type gradlew.bat clean --no-daemon,
+When Done Go To repository/build/libs and Copy createtrackmap-1.4-all.jar (They dont work on the top)
+And do the Same in the Up (dont download the release you have it tho)
 
 ### *Singleplayer*
 The map is hosted on your computer so while Minecraft is open, enter `http://localhost:3876/` into your browser.
