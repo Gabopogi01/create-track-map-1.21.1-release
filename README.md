@@ -12,7 +12,7 @@ and its unoffical
 # Create Track Map
 
 
-![Available for NeoForge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/fabric.svg)
+![Available for NeoForge](https://raw.githubusercontent.com/Gabopogi01/create-track-map-1.21.1-release/refs/heads/fabric/1.20/b9ae07fbc26c08220b4856cb244f86904d0c172c.webp)
 [![Requires Create ≥0.6](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/create-0.5.svg)](https://modrinth.com/mod/create/versions)
 [![Requires Kotlin for NeoForge](https://raw.githubusercontent.com/gist/jenchanws/842eee8428e1e0aec20de4594878156a/raw/522a26e2c91cbafab79ddbbc6d942f1720249a8c/forge-kotlin.svg)](https://modrinth.com/mod/kotlin-for-forge)
 
